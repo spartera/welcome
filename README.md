@@ -1,4 +1,4 @@
-![Logo](text.svg?raw=true)
+![Logo](https://raw.githubusercontent.com/SparteraNetwork/Welcome/master/text.svg?raw=true)
 
 # Spartera GitHub Organization
 Welcome Repository for the Spartera GitHub Organization
