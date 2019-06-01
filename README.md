@@ -1,6 +1,7 @@
-# Welcome
-Welcome Repository for the Spartera GitHub Organization
+![Logo](text.svg?raw=true)
 
+# Spartera GitHub Organization
+Welcome Repository for the Spartera GitHub Organization
 
 Spartera is a platform providing insurance for any kind of funds using the blockchain. 
 
