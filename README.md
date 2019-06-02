@@ -18,15 +18,15 @@ For now we work on private repository so if you want more info feel free to join
 
 Web      : https://www.spartera.network
 
-Facebook : http://facebook.com/SparteraNetwork/
+Facebook : http://facebook.com/SparteraNetwork
 
 Twitter  : https://twitter.com/SparteraNetwork
 
 Telegram : https://t.me/spartera_network
 
-LinkedIn : http://linkedin.com/company/spartera/
+LinkedIn : http://linkedin.com/company/spartera
 
-Instagram: http://instagram.com/sparteranetwork/
+Instagram: http://instagram.com/sparteranetwork
 
 If you want to join us feel free to send us an email or contact us on social Media
 
